@@ -24,6 +24,6 @@ The host then started to explain to us about the console and what developers use
 
 Another thing they taught us was about what API's were, though I'm still not clear about what it is.. it's great they gave us information about it and gave us good secrets about the console that we didn't know about, after that people had an opportunity to share their projects on JavaScript or they had a chance to work on JavaScript on their personal devices, we saw some pretty cool things people could do and the stuff they presented, wish i could've shown something but i had no clue we could bring our personal devices to share our projects.
 
-## Would I Recommend this event?
+### Would I Recommend this event?
 
-Personally i recommend this event to anyone who's interested in learning more about JavaScript or overall coding in general, the people who attended to the JavaScript meet-up were very friendly with one another and respect each other. 
+Personally i recommend this event to anyone who's interested in learning more about JavaScript or overall coding in general, the people who attended to the JavaScript meet-up were very friendly with one another and respect each other.
