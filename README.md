@@ -22,3 +22,7 @@ The host then started to explain to us about the console and what developers did
     * Creates a new inline group, indenting all following output by another level. To move back out a level, call groupEnd().
   * Console.info():
     * Informative logging of information. You may use string substitution and additional arguments with this method.
+
+One more thing they taught us was about what API's were, though im still not clear about what it still is.. it's great they gave us information about it and gave us good secrets about he console that we didn't know about.
+
+After that people had an oppurinity to share their projects on Javascript or they had a chance to work on Javascript on their personal devices, we saw some pretty cool things people could do and the stuff they presented
